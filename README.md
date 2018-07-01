@@ -3,40 +3,34 @@
 #### 项目介绍
 第一款面向大众的java版的视频管理系统，打破PHP的垄断。
 妖气山视频管理系统理论上可以制作任何类型的视频网站。
+
+#### 软件架构
 前端：javaex前端框架
 后端：ssm
 数据库：sql server 2012以上
+JDK：1.8
+tomcat8
 
+#### 特别说明
+1. 演示地址：http://173cms.javaex.cn/
+    账号：admin
+    密码：111111
+2. 视频教程：https://www.bilibili.com/video/av25911492/
+2. javaex前端框架官网：http://www.javaex.cn/
+3. 该项目相关sql脚本及文档请前往官网下载：http://www.javaex.cn/
 
-#### 软件架构
-软件架构说明
+#### 后台截图
+![输入图片说明](https://gitee.com/uploads/images/2018/0701/134017_2870e560_1712536.png "1.png")
+![输入图片说明](https://gitee.com/uploads/images/2018/0701/134049_9c3c359d_1712536.png "2.png")
+![输入图片说明](https://gitee.com/uploads/images/2018/0701/134138_99ddc69e_1712536.png "3.png")
+![输入图片说明](https://gitee.com/uploads/images/2018/0701/134159_61b92cc9_1712536.png "4.png")
+![输入图片说明](https://gitee.com/uploads/images/2018/0701/134226_d369994f_1712536.png "5.png")
 
-
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [http://git.mydoc.io/](http://git.mydoc.io/)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 前台截图
+![输入图片说明](https://gitee.com/uploads/images/2018/0701/134549_330cf7b3_1712536.jpeg "6.jpg")
+![输入图片说明](https://gitee.com/uploads/images/2018/0701/134633_10d380d1_1712536.jpeg "7.jpg")
+![输入图片说明](https://gitee.com/uploads/images/2018/0701/134844_1081a31f_1712536.jpeg "8.jpg")
+![输入图片说明](https://gitee.com/uploads/images/2018/0701/135047_9fc036b5_1712536.jpeg "9.jpg")
+![输入图片说明](https://gitee.com/uploads/images/2018/0701/135117_3230dbc0_1712536.jpeg "10.jpg")
+![输入图片说明](https://gitee.com/uploads/images/2018/0701/135201_147684e3_1712536.jpeg "11.jpg")
+![输入图片说明](https://gitee.com/uploads/images/2018/0701/135223_0d89c215_1712536.jpeg "12.jpg")
