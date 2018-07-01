@@ -1,18 +1,19 @@
 # 妖气山视频管理系统
 
 #### 项目介绍
-第一款面向大众的java版的视频管理系统，打破PHP的垄断。
-妖气山视频管理系统理论上可以制作任何类型的视频网站。
+1. 第一款面向大众的java版的视频管理系统，打破PHP的垄断。
+2. 妖气山视频管理系统理论上可以制作任何类型的视频网站。
 
 #### 软件架构
-前端：javaex前端框架
-后端：ssm
-数据库：sql server 2012以上
-JDK：1.8
-tomcat8
+1. 前端：javaex前端框架
+2. 后端：ssm
+3. 数据库：sql server 2012以上
+4. 编译器：eclipse
+5. JDK：1.8
+6. tomcat：tomcat8
 
 #### 特别说明
-1. 演示地址：http://173cms.javaex.cn/
+1. 演示地址：[输入链接说明](http://173cms.javaex.cn/)
     账号：admin
     密码：111111
 2. 视频教程：https://www.bilibili.com/video/av25911492/
