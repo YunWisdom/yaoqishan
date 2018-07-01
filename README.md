@@ -13,7 +13,7 @@
 6. tomcat：tomcat8
 
 #### 特别说明
-1. 演示地址：[输入链接说明](http://173cms.javaex.cn/)
+1. 演示地址：http://173cms.javaex.cn/
     账号：admin
     密码：111111
 2. 视频教程：https://www.bilibili.com/video/av25911492/
