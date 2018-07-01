@@ -1,7 +1,7 @@
 # 妖气山视频管理系统
 
 #### 项目介绍
-1. 第一款面向大众的java版的视频管理系统，打破PHP的垄断。
+1. 第一款面向大众的java版的视频管理系统。
 2. 妖气山视频管理系统理论上可以制作任何类型的视频网站。
 
 #### 软件架构
@@ -17,8 +17,9 @@
     账号：admin
     密码：111111
 2. 视频教程：https://www.bilibili.com/video/av25911492/
-2. javaex前端框架官网：http://www.javaex.cn/
-3. 该项目相关sql脚本及文档请前往官网下载：http://www.javaex.cn/
+3. 安装及开发文档：http://www.javaex.cn/forum.php?mod=viewthread&tid=18
+4. javaex前端框架官网：http://www.javaex.cn/
+5. 该项目相关sql脚本及文档请前往官网下载：http://www.javaex.cn/forum.php?mod=forumdisplay&fid=43
 
 #### 后台截图
 ![输入图片说明](https://gitee.com/uploads/images/2018/0701/134017_2870e560_1712536.png "1.png")
