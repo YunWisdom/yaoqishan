@@ -5,7 +5,7 @@
 2. 妖气山视频管理系统理论上可以制作任何类型的视频网站。
 
 #### 软件架构
-1. 前端：javaex前端框架
+1. 前端：javaex
 2. 后端：ssm
 3. 数据库：sql server 2012以上
 4. 编译器：eclipse
@@ -13,9 +13,8 @@
 6. tomcat：tomcat8
 
 #### 版权限制
-1. 虽然这个系统可以当做产品化的项目了，但是这个系统目前还是针对个人站长搭建视频网站而已。
-2. 个人的视频网站在中国一直是灰色产业，所以卖不了钱。
-3. 源代码爱咋改就咋改，只要不二次发布和私自商用卖钱就行了。
+1. 禁止二次发布
+2. 禁止商用
 
 #### 源码下载运行教程
 1. 视频教程：https://www.bilibili.com/video/av26030969/
@@ -26,10 +25,11 @@
 1. 演示地址：http://173cms.javaex.cn/
     账号：admin
     密码：111111
+    管理员登录后可进入后台
 2. 视频教程：https://www.bilibili.com/video/av25911492/
-3. 安装及开发文档：http://www.javaex.cn/forum.php?mod=viewthread&tid=18
-4. javaex前端框架官网：http://www.javaex.cn/
-5. 该项目相关sql脚本及文档请前往官网下载：http://www.javaex.cn/forum.php?mod=forumdisplay&fid=43
+3. javaex前端框架官网：http://www.javaex.cn/
+4. javaex交流群：587243028
+5. 其他系统请移步javaex官网查看
 
 #### 后台截图
 ![输入图片说明](https://gitee.com/uploads/images/2018/0701/134017_2870e560_1712536.png "1.png")
