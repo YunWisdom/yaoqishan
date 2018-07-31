@@ -12,10 +12,6 @@
 5. JDK：1.8
 6. tomcat：tomcat8
 
-#### 版权限制
-1. 禁止二次发布
-2. 禁止商用
-
 #### 源码下载运行教程
 1. 视频教程：https://www.bilibili.com/video/av26030969/
 2. 视频中忘记说了，sql Server连接JDBC需要以下jar包的支持：msbase.jar、mssqlserver.jar、msutil.jar、sqljdbc4.jar，
